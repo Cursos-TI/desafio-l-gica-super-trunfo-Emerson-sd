@@ -126,5 +126,8 @@ int main() {
         
         printf("\ncarta 2-%s (%s)venceu!",cidade2,estado2);
     }
+
+
+    
     return 0;
 }
