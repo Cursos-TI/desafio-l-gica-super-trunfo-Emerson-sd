@@ -60,7 +60,7 @@ int main() {
     printf("\n=============");
 
 
-    /// CARTA 2
+    /// CARTA 222
 
 
 
@@ -127,7 +127,7 @@ int main() {
         printf("\ncarta 2-%s (%s)venceu!",cidade2,estado2);
     }
 
-
+    printf("\nparabens as jogadores!!");
     
     return 0;
 }
